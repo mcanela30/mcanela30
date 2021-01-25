@@ -1,4 +1,4 @@
-### Hola, sóc el Joan Petit que balla
+### Hola, sóc el Marti Canela
 
 <!--
 **mcanela30/mcanela30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
